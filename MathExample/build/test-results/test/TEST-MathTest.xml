@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MathTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-17T22:24:19" hostname="DESKTOP-FH2OM5E" time="0.047">
+  <properties/>
+  <testcase name="averageTest()" classname="MathTest" time="0.032"/>
+  <testcase name="subtratTest()" classname="MathTest" time="0.008"/>
+  <testcase name="additionTest()" classname="MathTest" time="0.002"/>
+  <testcase name="multiplyTest()" classname="MathTest" time="0.002"/>
+  <system-out><![CDATA[7.0
+17.0
+19.0
+26.0
+33.0
+Your numbers subtracted returns: -16
+It's all Even-Steven over here!
+Your numbers add to: 20
+It's all Even-Steven over here!
+Multiplying these numbers gives us: 420
+It's all Even-Steven over here!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
